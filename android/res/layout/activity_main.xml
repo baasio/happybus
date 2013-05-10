@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    			android:layout_marginLeft="8dp"
+			android:layout_marginBottom="8dp"
+			android:layout_marginRight="8dp"
+			android:layout_marginTop="8dp"
+    tools:context=".MainActivity" >
+
+
+        <TextView android:text="@string/app_name"
+			android:id="@+id/title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dp"
+			android:layout_marginBottom="10dp"
+			android:layout_marginRight="3dp"
+			android:layout_marginTop="3dp"
+			android:textSize="24sp"
+			/>
+        
+
+        <TextView android:text="@string/login"
+			android:id="@+id/login"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dp"
+			android:layout_marginBottom="10dp"
+			android:layout_marginRight="3dp"
+			android:layout_marginTop="3dp"
+			android:textSize="24sp"
+			/>
+        
+        <TextView android:text="@string/change_password"
+			android:id="@+id/tv_change_password"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dp"
+			android:layout_marginBottom="10dp"
+			android:layout_marginRight="3dp"
+			android:layout_marginTop="3dp"
+			android:textSize="24sp"
+			/>
+        
+        <TextView android:text="@string/join"
+			android:id="@+id/tv_join"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dp"
+			android:layout_marginBottom="10dp"
+			android:layout_marginRight="3dp"
+			android:layout_marginTop="3dp"
+			android:textSize="24sp"
+			/>
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="#000000">            
+        </View>
+        
+        <TextView android:text=""
+			android:id="@+id/tv_information"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="3dp"
+			android:layout_marginBottom="10dp"
+			android:layout_marginRight="3dp"
+			android:layout_marginTop="3dp"
+			android:textSize="24sp"
+			/>
+        
+        
+
+</LinearLayout>

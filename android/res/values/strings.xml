@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Happy Bus</string>
+    <string name="menu_settings">설</string>
+   
+    <string name="success_join">축하드립니다.\n\nbaas.io에 첫 엔터티가 생성되었습니다.!!!</string>
+    <string name="login">로그인</string>
+    <string name="join">가입하기</string>
+    <string name="exit">탈퇴하기</string>
+    
+    <string name="reset_password">비밀번호 재설정</string>
+    
+    <string name="forget_password">비밀번호가 기억나지 않습니다.</string>
+    
+    <string name="email">e-mail</string>
+    <string name="password">password</string>
+    <string name="username">User Name</string>
+    
+    <string name="reset_password_guide">입력하신 E-mail 로 비밀번호를 초기화 할 수 있는 링크가 발송됩니다.</string>
+    
+    <string name="change_password">비밀번호 변경</string>
+    <string name="command_change">변경하기</string>
+    <string name="old_password">old_password</string>
+    <string name="new_password">new_password</string>
+    <string name="confirm_password">confirm_password</string>
+    
+</resources>
